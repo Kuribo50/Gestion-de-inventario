@@ -49,26 +49,14 @@
 - **Frontend**: http://localhost:3000
 - **Backend**: http://localhost:8000
 
-## 📚 Documentación
-
-La documentación completa está disponible en [nuestra wiki](https://github.com/tuusuario/gestion-bodega/wiki)
-
-## 🤝 Contribución
-
-¡Las contribuciones son bienvenidas! Por favor, lee nuestras [guías de contribución](CONTRIBUTING.md) antes de enviar un pull request.
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 📧 Contacto
 
 Para preguntas o soporte, contacta a:
 
 - **Martín Pérez**
-- Email: martin.perez@example.com
-- LinkedIn: [martin-perez](https://www.linkedin.com/in/martin-perez)
+- Email: martin.beroiza0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/martinberoiza/
 
 ---
 
-✨ **Gracias por usar Gestión Bodega!** ✨
+✨ **Gracias por ver Gestión Bodega!** ✨
