@@ -27,7 +27,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestion-bodega.git
+   [git clone https://github.com/Kuribo50/gestion-bodega.git](https://github.com/Kuribo50/Gestion-de-inventario.git)
    ```
 2. Configura las variables de entorno:
    - Crea un archivo `.env` en la carpeta `backend`
@@ -39,9 +39,15 @@
    cd ../frontend
    npm install
    ```
-4. Inicia los servicios con Docker:
+4. Inicia localhost:
    ```bash
-   docker-compose up --build
+    
+   cd backend
+   python manage.py runserver
+
+   cd ../frontend
+   npm run dev
+
    ```
 
 ## 🌐 Acceso
@@ -49,26 +55,14 @@
 - **Frontend**: http://localhost:3000
 - **Backend**: http://localhost:8000
 
-## 📚 Documentación
-
-La documentación completa está disponible en [nuestra wiki](https://github.com/tuusuario/gestion-bodega/wiki)
-
-## 🤝 Contribución
-
-¡Las contribuciones son bienvenidas! Por favor, lee nuestras [guías de contribución](CONTRIBUTING.md) antes de enviar un pull request.
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 📧 Contacto
 
 Para preguntas o soporte, contacta a:
 
 - **Martín Pérez**
-- Email: martin.perez@example.com
-- LinkedIn: [martin-perez](https://www.linkedin.com/in/martin-perez)
+- Email: martin.beroiza0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/martinberoiza/
 
 ---
 
-✨ **Gracias por usar Gestión Bodega!** ✨
+✨ **Gracias por ver Gestión Bodega!** ✨
