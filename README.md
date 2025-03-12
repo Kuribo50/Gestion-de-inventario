@@ -27,7 +27,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gestion-bodega.git
+   [git clone https://github.com/Kuribo50/gestion-bodega.git](https://github.com/Kuribo50/Gestion-de-inventario.git)
    ```
 2. Configura las variables de entorno:
    - Crea un archivo `.env` en la carpeta `backend`
