@@ -1,0 +1,23 @@
+{
+  "build": {
+    "builder": "nixpacks",
+    "config": {
+      "nodeVersion": "18.x",
+      "pythonVersion": "3.11"
+    }
+  },
+  "deploy": {
+    "startCommand": "docker-compose up",
+    "healthCheckPath": "/",
+    "env": {
+      "DATABASE_URL": {
+        "description": "PostgreSQL database URL",
+        "required": true
+      },
+      "SECRET_KEY": {
+        "description": "Django secret key",
+        "required": true
+      }
+    }
+  }
+}

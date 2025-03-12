@@ -1,0 +1,37 @@
+# Next.js build folder
+.next
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+
+# IDE specific files
+.vscode/
+.idea/
+.backups/
+
+# Database
+*.sqlite3
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
